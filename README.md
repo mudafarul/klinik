@@ -7,6 +7,3 @@ Aplikasi ini digunakan untuk menghitung biaya per item yang dikeluarkan di klini
 1. Klon repositori ini:
    ```bash
    git clone https://github.com/username/keuangan-klinik.git
-cd keuangan-klinik
-npm install
-npm start
